@@ -1,2 +1,2 @@
 # IUP-wrapper
-IUP Gui wrapper for Java
+IUP is a GUI toolkit developed by PUC-Rio, Brazil; this is a Java wrapper, allowing the toolkit to be used in Java program. Work in progress.
